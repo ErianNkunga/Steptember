@@ -1,7 +1,7 @@
 # ***Steptember***
 
 
-<img src= "loginscherm.png"
+<img src= "Loginscherm.png"
 alt="" style="float: center ; margin-right: 100px;" />
 #
 <h2>Omschrijving</h2>
