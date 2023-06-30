@@ -1,7 +1,19 @@
 # ***Steptember***
 
 
-<img src= "Loginscherm.png"
+<img src= "Loginscherm1.png"
+alt="" style="float: center ; margin-right: 100px;" />
+#
+
+<img src="admin.png"
+alt="" style="float: center ; margin-right: 100px;" />
+#
+
+<img src= "adminaantal.png"
+alt="" style="float: center ; margin-right: 100px;" />
+#
+
+<img src= "admingemiddelde.png"
 alt="" style="float: center ; margin-right: 100px;" />
 #
 <h2>Omschrijving</h2>
